@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 katz_deli = [] 
 
 def take_a_number(array, name)
@@ -41,4 +41,3 @@ now_serving(katz_deli)
 katz_deli
 
 def take_a_number(array, name)
->>>>>>> f1e6052973f0830bd65e91c25e7990965aae18b1
